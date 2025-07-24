@@ -9,7 +9,6 @@
 
 ![Arka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkajenar07&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajenar07&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkajenar07&theme=tokyonight)
 
 ---
 
