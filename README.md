@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Arka Jenar Ma'arif
 
-🎓 Student at **SMK Telkom Sidoarjo**, majoring in **Network Information Systems & Applications (TJKT-RPL)**.  
+🎓 Student at **SMK Telkom Sidoarjo**, majoring in **Network Information Systems & Applications (SIJA)**.  
 💻 I enjoy building web systems, crafting clean UI/UX, and experimenting with interactive storytelling in Unity.
 
 ---
