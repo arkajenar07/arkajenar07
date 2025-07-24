@@ -5,6 +5,12 @@
 
 ---
 
+### 📊 GitHub Stats & Languages
+
+![GitHub Stats](./6698a108-1ba5-4f4d-96e1-90870f85a19b.png)
+
+---
+
 ### 🚀 Projects
 - E-Voting Web System using **Native PHP** & **Laravel 10**
 - "Miracle of Bali" – tourism website for competition
