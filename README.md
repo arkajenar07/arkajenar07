@@ -1,59 +1,41 @@
-## 👋 Hello there! I'm Arka Jenar Ma'arif
+## 👋 Hi, I'm Arka Jenar Ma'arif
 
-🎓 A passionate student at **SMK Telkom Sidoarjo**, majoring in **Network Information Systems & Applications (TJKT-RPL)**.  
-💻 Currently exploring the endless world of **Web Development, UI/UX Design**, and **Game Development with Unity**.
-
----
-
-### 🚀 Past Projects:
-- 🔧 Developing an **E-Voting Web System** for school elections using **Native PHP** and **Laravel 10**.
-- 🌐 Designing and building the **"Miracle of Bali"** tourism website for a competition.
-- 💡 Participating in the development of **Ambis Camp**, a learning & discussion platform for OSN preparation.
+Student at **SMK Telkom Sidoarjo**, majoring in **Network Information Systems & Applications (TJKT-RPL)**. I enjoy building web systems, crafting clean UI/UX, and experimenting with interactive storytelling in Unity.
 
 ---
 
-### 📚 What I'm Learning:
-- 🧠 Deepening my skills in **Laravel**, **RESTful APIs**, and **Filament Admin Panel**.
-- 🎨 Crafting better UI/UX with **Tailwind CSS** & **Figma**.
-- 🕹️ Creating interactive story-driven systems in **Unity (C#)** using **TextMesh Pro** and animated UI flows.
+### Projects
+- E-Voting Web System using **Native PHP** & **Laravel 10**
+- "Miracle of Bali" – tourism website for competition
+- Ambis Camp – OSN prep & discussion platform
 
 ---
 
-### 🤝 I'm Open to Collaborate On:
-- 🌍 Website projects related to **education, tourism, or public service**.
-- 🎮 Indie games with **simple narrative elements or choice-based systems**.
-- 📱 UI/UX prototyping and design ideas for startups or school competitions.
+### Learning
+- Laravel, REST API, Filament
+- Tailwind CSS & Figma for better UI/UX
+- Unity (C#) for narrative game dev
 
 ---
 
-### ❓ Need Help With:
-- Debugging Laravel issues? Ask me!
-- Implementing prolog systems in Unity? I got you!
-- Building user-friendly interfaces with Tailwind and Vanilla JS? Let's talk.
+### Open to Collaborate On
+- Education & public service websites  
+- UI/UX design for school/startup projects  
+- Small narrative-based Unity games
 
 ---
 
-### 💬 Ask Me About:
-- Laravel 10, Blade templating, Filament.
-- Native PHP logic for school apps.
-- Game UI flow design in Unity.
-- My journey building school systems and competition projects.
+### Ask Me About
+- Laravel & PHP logic
+- UI with Tailwind & JS
+- Unity prolog & dialog systems
 
 ---
 
-### 📫 How to Reach Me:
-- 📧 Email: jenararka019@gmail.com  
-- 🌐 Portfolio: [Coming Soon!]
-- 💼 LinkedIn: [Coming Soon!]
+### Contact
+- Email: jenararka019@gmail.com  
+- Portfolio: *Coming soon*
 
 ---
 
-### ⚡ Fun Facts:
-- 🥇 Trusted to lead backend projects even while still in school!
-- 🎯 Detail-oriented in UI Design — yes, pixel perfection matters!
-- 🧩 Loves solving logic problems & making code feel elegant.
-- 🎮 Favorite creative outlet: combining code and story in Unity.
-
----
-
-> _“Build things that help people — whether it’s a button, a system, or a story.”_ 🚀
+> _"Build things that help people — whether it's a button, a system, or a story."_
