@@ -7,7 +7,9 @@
 
 ### 📊 GitHub Stats & Languages
 
-![GitHub Stats](./6698a108-1ba5-4f4d-96e1-90870f85a19b.png)
+![Arka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkajenar07&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkajenar07&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkajenar07&theme=tokyonight)
 
 ---
 
