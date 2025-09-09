@@ -20,13 +20,6 @@
 
 ---
 
-### 📚 Currently Learning
-- Laravel, REST API, Filament
-- Tailwind CSS & Figma for better UI/UX
-- Unity (C#) & TextMesh Pro for narrative game dev
-
----
-
 ### 🤝 Open to Collaborate On
 - Education & public service websites  
 - UI/UX design for school/startup projects  
